@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, doing the Harvard CS50x Introduction to Computer Science course and working on my CCNA certification.
+🌱 I’m currently learning React, doing the Harvard CS50x Introduction to Computer Science course and working toward my CCNA certification.
 
 
 # 💻 Tech Stack:
