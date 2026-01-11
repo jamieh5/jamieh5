@@ -9,6 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Languages](https://metrics.lecoq.io/jamieh5?template=classic&languages=1&languages.limit=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
