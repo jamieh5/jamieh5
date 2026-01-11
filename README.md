@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamieh5&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
