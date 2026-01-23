@@ -15,6 +15,6 @@ Current Courses:
 ![](https://nirzak-streak-stats.vercel.app/?user=jamieh5&theme=dark&hide_border=false)<br/>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&layout=normal&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieh5&layout=compact&theme=dark&langs_count=10)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
