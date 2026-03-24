@@ -4,7 +4,7 @@
 Current Courses:
 
 - 🎓 **[Harvard CS50x](https://cs50.harvard.edu/x/)** – Introduction to Computer Science *(In Progress)*  
-- 🐍 **[Harvard CS50p](https://cs50.harvard.edu/python/)** – Introduction to Programming with Python *(In Progress)*  
+- 🐍 **[Harvard CS50p](https://cs50.harvard.edu/python/)** – Introduction to Programming with Python *(Finished)*  
 - 🌐 **[The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)** – Full-Stack JavaScript Path *(In Progress)*
 - 📡 **[CCNA Preparation – Jeremy’s IT Lab](https://www.udemy.com/course/ccna-jitl/)** *(Finished)*
 
